@@ -1,0 +1,20 @@
+{
+  "name": "brilliantlights-studio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "sanity dev",
+    "build": "sanity build",
+    "deploy": "sanity deploy"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "sanity": "^6.19.0",
+    "styled-components": "^6.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  }
+}
